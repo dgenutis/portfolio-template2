@@ -25,14 +25,16 @@ const Hero = () => {
               />
             </figure>
 
-            <div className="">
-              <span className="">
-                <span className=""></span>
+            <div className="flex items-center gap-1.5 text-zinc-400 text-sm tracking-wide">
+              <span className="relative w-2 h-2 rounded-full bg-emerald-400">
+                <span className="absolute inset-0 rounded-full bg-emerald-400 animate-ping"></span>
               </span>
               Available for work
             </div>
           </div>
-          <h2 className="">Building Scalable Modern Websites for the Future</h2>
+          <h2 className="headline-1">
+            Building Scalable Modern Websites for the Future
+            </h2>
           <div className="">
               ButtonPrimary
 
