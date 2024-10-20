@@ -45,7 +45,7 @@ const About = () => {
             }
 
             <img
-            src="/1.jpg"
+            src="/DG.png"
             alt="logo"
             width={30}
             height={30}
